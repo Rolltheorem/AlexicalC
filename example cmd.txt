@@ -1,0 +1,2 @@
+java -jar ALex.jar bzxj5ci
+2

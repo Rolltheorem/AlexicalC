@@ -1,0 +1,4 @@
+-pour executer "java -jar Alex.jar 'example'" sur cmd
+-le ficher 'regle' contient les regle de deplacement
+-les etats sont represente par des nombres natures (commence par 0)
+-code source dans le fichier "source"
