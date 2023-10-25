@@ -1,1 +1,4 @@
-# AlexicalCompiler
+# Alexical
+
+
+regle -> graph -> analyser
